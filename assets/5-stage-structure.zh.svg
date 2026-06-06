@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="792" viewBox="0 0 820 792" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="820" height="792" rx="16" fill="#0d1117"/>
+  <text x="410" y="44" text-anchor="middle" fill="#e6edf3" font-size="26" font-weight="700">5 段式提示词结构</text>
+  <text x="410" y="70" text-anchor="middle" fill="#8b949e" font-size="14">Mx-Shell《丧尸清道夫》背后的骨架 &#183; 顺序很重要</text>
+
+  <!-- 1 -->
+  <g>
+    <rect x="40" y="96" width="740" height="116" rx="12" fill="#161b22" stroke="#ff7a18" stroke-width="1.5"/>
+    <circle cx="92" cy="154" r="26" fill="#ff7a18"/>
+    <text x="92" y="163" text-anchor="middle" fill="#0d1117" font-size="26" font-weight="700">1</text>
+    <text x="140" y="142" fill="#e6edf3" font-size="19" font-weight="700">核心主题</text>
+    <text x="140" y="170" fill="#adbac7" font-size="14.5">3&#8211;6 个风格标签，用「|」分隔</text>
+    <text x="140" y="192" fill="#6e7681" font-size="13">原子朋克 | 末日丧尸 | 电影感 | 超写实 | 无游戏 CG 感</text>
+  </g>
+
+  <path d="M410 212 L410 228" stroke="#30363d" stroke-width="2"/>
+  <path d="M404 224 L410 232 L416 224 Z" fill="#30363d"/>
+
+  <!-- 2 -->
+  <g>
+    <rect x="40" y="236" width="740" height="116" rx="12" fill="#161b22" stroke="#16a3a3" stroke-width="1.5"/>
+    <circle cx="92" cy="294" r="26" fill="#16a3a3"/>
+    <text x="92" y="303" text-anchor="middle" fill="#0d1117" font-size="26" font-weight="700">2</text>
+    <text x="140" y="282" fill="#e6edf3" font-size="19" font-weight="700">人物与场景</text>
+    <text x="140" y="310" fill="#adbac7" font-size="14.5">面部 / 服装 / 场景 &#8212; 三行</text>
+    <text x="140" y="332" fill="#6e7681" font-size="13">五官百分百还原 &#183; 材质优先 &#183; 环境要「活」起来</text>
+  </g>
+
+  <path d="M410 352 L410 368" stroke="#30363d" stroke-width="2"/>
+  <path d="M404 364 L410 372 L416 364 Z" fill="#30363d"/>
+
+  <!-- 3 -->
+  <g>
+    <rect x="40" y="376" width="740" height="116" rx="12" fill="#161b22" stroke="#ff7a18" stroke-width="1.5"/>
+    <circle cx="92" cy="434" r="26" fill="#ff7a18"/>
+    <text x="92" y="443" text-anchor="middle" fill="#0d1117" font-size="26" font-weight="700">3</text>
+    <text x="140" y="422" fill="#e6edf3" font-size="19" font-weight="700">氛围与画质</text>
+    <text x="140" y="450" fill="#adbac7" font-size="14.5">真实摄影机 + 镜头型号 / 色调 / 胶片颗粒</text>
+    <text x="140" y="472" fill="#6e7681" font-size="13">IMAX + Panavision C 系列，35mm，f/4 &#8212; 关键技巧</text>
+  </g>
+
+  <path d="M410 492 L410 508" stroke="#30363d" stroke-width="2"/>
+  <path d="M404 504 L410 512 L416 504 Z" fill="#30363d"/>
+
+  <!-- 4 -->
+  <g>
+    <rect x="40" y="516" width="740" height="116" rx="12" fill="#161b22" stroke="#16a3a3" stroke-width="1.5"/>
+    <circle cx="92" cy="574" r="26" fill="#16a3a3"/>
+    <text x="92" y="583" text-anchor="middle" fill="#0d1117" font-size="26" font-weight="700">4</text>
+    <text x="140" y="562" fill="#e6edf3" font-size="19" font-weight="700">运镜规则</text>
+    <text x="140" y="590" fill="#adbac7" font-size="14.5">一镜到底 or 多镜 / 角度 / 呼吸般浮动</text>
+    <text x="140" y="612" fill="#6e7681" font-size="13">「全程保持极其轻微的、如呼吸般的镜头浮动」</text>
+  </g>
+
+  <path d="M410 632 L410 648" stroke="#30363d" stroke-width="2"/>
+  <path d="M404 644 L410 652 L416 644 Z" fill="#30363d"/>
+
+  <!-- 5 -->
+  <g>
+    <rect x="40" y="656" width="740" height="116" rx="12" fill="#161b22" stroke="#ff7a18" stroke-width="1.5"/>
+    <circle cx="92" cy="714" r="26" fill="#ff7a18"/>
+    <text x="92" y="723" text-anchor="middle" fill="#0d1117" font-size="26" font-weight="700">5</text>
+    <text x="140" y="702" fill="#e6edf3" font-size="19" font-weight="700">分镜脚本</text>
+    <text x="140" y="730" fill="#adbac7" font-size="14.5">逐秒切片（一镜到底）或 逐镜切片（多镜）</text>
+    <text x="140" y="752" fill="#6e7681" font-size="13">动作 + 镜头 + 特效 &#183; 结尾要留白</text>
+  </g>
+</svg>
