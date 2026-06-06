@@ -1,0 +1,114 @@
+═══════════════════════════════════════════════════════════════════════════════
+ ai-shortfilm-prompts · Attribution & Dual-Licensing NOTICE
+═══════════════════════════════════════════════════════════════════════════════
+
+This repository contains contributions from multiple authors under different
+licensing terms. The repository as a whole is structured as a "dual license":
+
+  [A] Original work by jnMetaCode  →  MIT License (see LICENSE)
+  [B] Original content by Mx-Shell →  All Rights Reserved (see below)
+  [C] Upstream-derived patterns    →  See acknowledgements below
+
+This NOTICE file is incorporated by reference into the MIT LICENSE.
+A Chinese translation is available at NOTICE.zh.
+
+─────────────────────────────────────────────────────────────────────────────
+[A] jnMetaCode — MIT License
+─────────────────────────────────────────────────────────────────────────────
+
+Scope (files and authored content by jnMetaCode):
+
+  - methodology.md / methodology.zh.md
+  - faq.md / faq.zh.md
+  - templates/ directory (all generalized templates)
+  - skills/shortfilm-prompt/ (SKILL.md, TESTING.md, examples/)
+  - .claude-plugin/ metadata
+  - credits.md / credits.zh.md
+  - README.md / README.zh.md
+  - All code, scripts, comments, and document structure authored by
+    jnMetaCode
+
+These materials are licensed under the MIT License — see LICENSE file.
+Free for any use including commercial, with attribution preserved.
+
+─────────────────────────────────────────────────────────────────────────────
+[B] Mx-Shell — All Rights Reserved by the Original Author
+─────────────────────────────────────────────────────────────────────────────
+
+Scope:
+
+  - All complete prompt artifacts in prompts/ marked
+    "Source: mx-shell prompts collection"
+    (Zombie Scavenger, Kamen Rider series, Kai'Sa, Pacific Rim+Gundam,
+     Cyber-Wuxia, Metal Gear, etc.)
+  - All quoted excerpts from Mx-Shell's livestream and document content,
+    formatted as blockquotes or quoted strings across faq.md,
+    credits.md, methodology.md, etc.
+
+Sources and consent:
+
+  All [B] content originates from two channels Mx-Shell himself
+  voluntarily and publicly distributed:
+
+    1. Prompt-and-troubleshooting documents he shared in his
+       publicly-accessible fan group
+       (mx-shell prompts + Q&A *.docx)
+    2. His public Douyin livestream on May 12, 2026
+       (livestream recording + text transcript)
+
+  Mx-Shell explicitly expressed an open stance toward sharing. Direct
+  quotes from the May 12 livestream:
+
+    > "If you joined the fan group just to grab the prompts and then
+    >  leave, fine, I don't mind."
+    > "You can learn this, you can take it and do whatever — I don't
+    >  care."
+    > "I hope this lets the Chinese AI scene draw some inspiration
+    >  from what I shared today, and that it can help people."
+
+  This repository organizes the above public material as methodology
+  extraction + reverence-style archival, with full source attribution.
+
+Use of [B] content requires:
+
+  1. Preserving attribution to Mx-Shell and source links
+  2. Use limited to study, research, and methodology reference
+  3. Any commercial use (paid courses, training datasets, commercial AI
+     model training, etc.) requires contacting Mx-Shell directly
+  4. No out-of-context redistribution of original prompt text
+  5. The repository maintainer will respond immediately to any
+     modification or removal request from Mx-Shell
+
+If Mx-Shell provides a formal written license, this section will be
+updated to reflect his chosen terms.
+
+  Copyright (c) 2026 Mx-Shell.
+  All rights reserved unless explicitly licensed otherwise.
+
+─────────────────────────────────────────────────────────────────────────────
+[C] Third-party upstream credits
+─────────────────────────────────────────────────────────────────────────────
+
+  - SKILL.md frontmatter format + TDD-driven skill-writing methodology
+    derived from: obra/superpowers (MIT License)
+    https://github.com/obra/superpowers
+
+─────────────────────────────────────────────────────────────────────────────
+Quick reference for end users
+─────────────────────────────────────────────────────────────────────────────
+
+  Q: Can I use the methodology / templates / Skill commercially?
+  A: Yes — the [A] MIT portion is free for any use. Just keep the
+     copyright notice.
+
+  Q: Can I republish Mx-Shell's original prompt text on my site / course?
+  A: That falls under [B]. Personal study and citation: yes. Commercial
+     republishing or AI training data: contact Mx-Shell first.
+
+  Q: I have a question about attribution.
+  A: Open an Issue on
+     https://github.com/jnMetaCode/ai-shortfilm-prompts/issues
+
+─────────────────────────────────────────────────────────────────────────────
+Last updated: May 2026
+─────────────────────────────────────────────────────────────────────────────
