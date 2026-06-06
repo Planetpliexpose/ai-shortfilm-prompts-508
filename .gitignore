@@ -1,0 +1,36 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 大文件（GitHub 单文件 100MB 上限）
+# 直播录像放本地，README 引用 B 站/油管链接
+资料/直播回放切片.mp4
+*.mp4
+*.mov
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python（如果以后加测试脚本）
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node（如果以后加 plugin 安装脚本）
+node_modules/
+
+# 临时文件
+*.tmp
+*.bak
+
+# 个人内容，不上传 GitHub
+# 教程：发公众号/抖音/小红书的文章，保持渠道独占性
+教程/
+# 资料：Mx-Shell 原始 docx + 直播视频 + 截图，版权敏感 + 渠道独占
+资料/
+# 内部 checklist
+发布前checklist.md
